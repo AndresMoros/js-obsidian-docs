@@ -1,0 +1,1 @@
+Un objeto en JavaScript, igual que en otros lenguajes, es posible compararlos 
