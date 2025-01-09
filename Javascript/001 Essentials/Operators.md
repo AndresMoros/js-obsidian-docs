@@ -1,5 +1,6 @@
 
-Content Table
+## **Content Table**
+
 - [[#Arithmetic Operators]]
 - [[#Other Assignment Operators]]
 - [[#Comparison Operators]]

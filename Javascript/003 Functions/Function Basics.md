@@ -1,6 +1,6 @@
-## What a `fuction` is
+## What a `{js}fuction` is
 
-\A `function` is a reusable set of statements used to perform a task or get a value. A `fuction` can be passed one or more values and it'll return a value at the end of the execution. 
+A `function` is a reusable set of statements used to perform a task or get a value. A `fuction` can be passed one or more values and it'll return a value at the end of the execution. 
 
 ## Function declaration
 
