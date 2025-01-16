@@ -1,6 +1,6 @@
 The `return` keyword is how we obstain an specific value from the fuction when it's call. 
 
-If we don't use the `return` keyword, the fuction will return `undefined` by default. 
+If we don't use the `return` keyword, the [[Function Basics||function]] will return `undefined` by default. 
 
 ```javascript
 // With return

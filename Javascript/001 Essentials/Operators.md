@@ -1,5 +1,5 @@
 
-## **Content Table**
+### **Content Table**
 
 - [[#Arithmetic Operators]]
 - [[#Other Assignment Operators]]
@@ -8,7 +8,9 @@
 - [[#Conditional Operator]]
 
 **Source:**
-[Codecademy | JavaScript's Operators](https://www.codecademy.com/resources/docs/javascript/operators)
+- [Codecademy | JavaScript's Operators](https://www.codecademy.com/resources/docs/javascript/operators)
+
+---
 
 ## Arithmetic Operators
 
@@ -77,7 +79,7 @@ These operators compare values and return a [boolean](https://www.codecademy.co
 - ==`>=`==: Returns `true` or `false` based on whether the first value is greater than or equal to the second value.
 - ==`<=`==: Returns `true` or `false` based on whether the first value is less than or equal to the second value.
 
-> **Note:** The `==` and `===` comparison operators are not to be confused with the single equality sign `=` operator that is used for assignment.
+> **Note:** ==The `==` and `===` comparison operators are not to be confused with the single equality sign `=` operator that is used for assignment.==
 
 The following example showcases some of these comparison operators:
 

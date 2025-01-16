@@ -1,11 +1,14 @@
-## **Tabla de contenido**
+### **Tabla de contenido**
 
 - [[#Add new elements]]
 - [[#In Array's elements insertion]]
 - [[#Most use methods for arrays]]
 
 **Fuente:**
-[Integración de componentes de software en páginas web (2023)](https://www.ra-ma.es/libro/mf0951-2-integracion-de-componentes-software-en-paginas-web_148555/)
+- [Integración de componentes de software en páginas web (2023)](https://www.ra-ma.es/libro/mf0951-2-integracion-de-componentes-software-en-paginas-web_148555/)
+
+---
+
 
 Métodos para interactuar y trabajar con arrays en JavaScript. 
 ## Add new elements
@@ -54,20 +57,20 @@ console.log(array);                // [0,1,2,3,null,5]
 El método `.splice()` es capaz eliminar elementos especificados en el array original, y con ello de devolver (`return`) un array nuevo con los elementos eliminados. Este método toma dos parámetros, el primero indica el índice desde el cual se empezarán a eliminar los elementos, y el segundo cuántos elementos se deben eliminar desde la posición indicada en el primero. Por ejemplo: 
 
 ```javascript
-const array = new Array(0, 1, 2, 3, 4, 5);
-console.log(array);                         // [0, 1, 2, 3, 4, 5]
+const fruits = ["mango", "date", "cherry", "banana", "apple"];
 
-// -----------------------------------------------
+// Remove date and cherry from the array starting at index 1
+const removedFruits = fruits.splice(1, 2);
 
-const substracElements = array.splice(3, 2);
-console.log(substracElements);              // [3, 4]
-console.log(array);                         // [0, 1, 2, 5]
+console.log(fruits); // [ 'mango', 'banana', 'apple' ]
+console.log(removedFruits); // [ 'date', 'cherry' ]
 ```
 
-## Most use methods for arrays
+Nota: El método `splice` puede tomar un tercer parámetro, que es el reemplazo para el contenido que se ha removido del array.
+## Most used array methods
 
 ### `{javascript} .filter()`
-El m `.filter()` funciona por medio de una `function` y da como resultado un array con los elementos que cumplan con la condición que se específique, sin alterar el array original. Por ejemplo:
+El método `.filter()` funciona por medio de una `function` y da como resultado un array con los elementos que cumplan con la condición que se especifique, sin alterar el array original. Por ejemplo:
 
 ```javascript
 // .filter() para Arrays:

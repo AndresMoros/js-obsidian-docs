@@ -1,4 +1,4 @@
-**Content Table**
+### **Content Table**
 - [[#String]]
 - [[#Number & BigInt]]
 - [[#Boolean]]
@@ -6,8 +6,10 @@
 - [[#Objects]]
 
 **Source:
-[Codecademy | JavaScript's Data Type](https://www.codecademy.com/resources/docs/javascript/data-types)
-[Integración de componentes de software en páginas web (2023)](https://www.ra-ma.es/libro/mf0951-2-integracion-de-componentes-software-en-paginas-web_148555/)
+- [Codecademy | JavaScript's Data Type](https://www.codecademy.com/resources/docs/javascript/data-types)
+- [Integración de componentes de software en páginas web (2023)](https://www.ra-ma.es/libro/mf0951-2-integracion-de-componentes-software-en-paginas-web_148555/)
+
+---
 
 ## String
 The string can be declareted using double quotes (`{js}""`) or single qoutes (`{js}''`). Even, with inverted quotes, this one is use for make templates literals on JavaScript using interpolation.

@@ -1,4 +1,4 @@
-The sintax of an `arrow fuction` does not requiere the `fuction` keyword, and implemate a fat arrow ==`=>`== to separate the parameters from the function's body.
+The sintax of an `arrow fuction` does not requiere the [[Function Basics||function]] keyword, and implemate a fat arrow ==`=>`== to separate the parameters from the function's body.
 
 The arrow functions have the following characteristics or variants:
 

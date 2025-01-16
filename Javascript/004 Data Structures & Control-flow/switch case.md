@@ -3,6 +3,8 @@ Una sentencia `{js}switch` es una instrucción para el flujo de trabajo, que lle
 **Fuente:**
 [ES - JavaScript switch case: Ejemplo de sentencias switch en JS](https://www.freecodecamp.org/espanol/news/javascript-switch-case-ejemplo-de-sentencias-switch-en-js/)
 [EN - JavaScript Switch Case – JS Switch Statement Example](https://www.freecodecamp.org/news/javascript-switch-case-js-switch-statement-example/)
+
+---
 ## Sintaxis básica de una sentencia switch
 
 ```js title:"Ejemplo genérico"

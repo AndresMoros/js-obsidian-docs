@@ -1,11 +1,15 @@
 An arrays is a [[Data Types||data type]] as a group of elements that are saves on the memory in 'manera secuencial', and can be access with [[Data Types#Number and BigInt||integer values]], [[Data Types#String||strings]], called *index.
 
-## **Content table**
+### **Content table**
+
 - [[#Array's construction]]
 - [[#How to access an array's element]]
 
 **Fuente:**
 [Integración de componentes de software en páginas web (2023)](https://www.ra-ma.es/libro/mf0951-2-integracion-de-componentes-software-en-paginas-web_148555/)
+
+---
+
 ## Array's construction
 
 ```javascript

@@ -1,3 +1,16 @@
+### **Content table**
+
+- [[#What a `{js}fuction` is|What a function is]]
+- [[#Function declaration]]
+- [[#Calling Fuctions]]
+- [[#Optional Arguments]]
+- [[#Default Values]]
+
+**Source:**
+
+
+---
+
 ## What a `{js}fuction` is
 
 A `function` is a reusable set of statements used to perform a task or get a value. A `fuction` can be passed one or more values and it'll return a value at the end of the execution. 
