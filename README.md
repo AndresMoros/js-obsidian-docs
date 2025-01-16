@@ -1,4 +1,4 @@
-[Preview - 17/01/2025](Javascript/.images/js-obsidian-vault.png)
+[Preview - 17/01/2025](Javascript/images/js-obsidian-vault.png)
 
 ### Plugins:
 - [Code Styler bymayurakv](https://github.com/mayurankv/Obsidian-Code-Styler)
