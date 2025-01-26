@@ -66,7 +66,9 @@ console.log(fruits); // [ 'mango', 'banana', 'apple' ]
 console.log(removedFruits); // [ 'date', 'cherry' ]
 ```
 
-Nota: El método `splice` puede tomar un tercer parámetro, que es el reemplazo para el contenido que se ha removido del array.
+**NOTA**: El método `splice` puede tomar un tercer parámetro, que es el reemplazo para el contenido que se ha removido del array.
+
+---
 ## Most used array methods
 
 ### `{javascript} .filter()`

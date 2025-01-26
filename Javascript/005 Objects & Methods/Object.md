@@ -2,6 +2,7 @@ Un objeto en JavaScript, igual que en otros lenguajes, es posible compararlos co
 
 Existen varios tipos de objetos. Algunos tiene propiedades ligadas a funciones, los cuales se determinan *métodos*, por ejemplo el método [[Array methods|.push()]] de los objetos [[WTF s an array||array]]. 
 
+---
 ## Propiedades de objetos
 Los objetos pueden contener en su interior varias *propiedades*, las cuales pueden tomarse como una variable relacionada con el mismo objeto. Pueden ser tratadas como variables normales en JavaScript, con la diferencia de estar ligadas al objeto al que pertenecen. Se puede acceder a las propiedades de los objetos con una notación de punto (`.`), por ejemplo:
 
@@ -16,9 +17,10 @@ const carsMaker = ["Ford", "Chevrolet", "Ferrari", "Volkswagen"]
 console.log(carsMaker.length) // output: 4
 ```
 
-> **NOTA:** *Nombre de las propiedades* 
-> Al igual que las variables comunes, son sensibles a las minúsculas y mayúsculas
+**NOTA:** Nombre de las propiedades 
+Al igual que las variables comunes, son sensibles a las minúsculas y mayúsculas
 
+---
 ## Crear propiedades de un objeto
 Las propiedades puedes crearse usando la notación del punto antes mencionada y asignándoles un valor. Para demostrarlo, vamos a crear un objeto llamada `myCar` y se le agregarán propiedades con este método:
 

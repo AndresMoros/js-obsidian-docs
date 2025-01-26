@@ -82,7 +82,6 @@ let finishStudyingDate = null;
 
 `{js}null` is used intentionally for developers to indicate to the variable doesn't need a value at the moment. 
 
-> **NOTE: Falsy with `null` and `undefined`**
-> Both values can be understan as `{js}false` on boleean contexts, 'cause any value under one *(0, -1, -2...)* incluiding, and empty strings are interpreted as `{js}false`. To be more precise with using these, we have to do use of strict comparition operator (`{js}===`).
-
+**NOTE: Falsy with `null` and `undefined`** 
+Both values can be understan as `{js}false` on bolean contexts, 'cause any value under one *(0, -1, -2...)* incluiding, and empty strings are interpreted as `{js}false`. To be more precise with using these, we have to do use of strict comparition operator (`{js}===`).
 

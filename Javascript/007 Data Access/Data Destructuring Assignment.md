@@ -48,8 +48,7 @@ console.log(lastName)    //output: Doe
 
 El orden en que se declaran las variables durante la asignación **NO** influye en cuanto a sus valores.
 
-> **NOTA:** ==La destructuración **NO** destruye las propiedades, y tampoco modifica de alguna manera el objeto original.==
-
+**NOTA:** La destructuración **NO** destruye las propiedades, y tampoco modifica de alguna manera el objeto original.
 ### Object default values
 
 Igual que cuando se *llama* una variable que no está definida (`{js}undefined` o `{js}null`), esto puede ocurrir si declaramos una variables con un nombre que no existe entre las propiedades del objeto, o cuyo valor está vacío. Para evitar esto, usamos los [[Function Basics#Default Values||valores por defecto]]. Por ejemplo: 
@@ -113,7 +112,8 @@ let [fruit1, fruit2] = fruits;
 console.log(fruit2) //output: Oranges
 ```
 
-> **Nota:** En este caso el orden en que estén los elementos del array **SI** importa para asignar los valores de las variables.
+**NOTA:** En este caso el orden en que estén los elementos del array SI importa para asignar los valores de las variables.
+
 ---
 ### Skipping Array Values
 
